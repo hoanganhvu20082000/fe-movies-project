@@ -1,0 +1,5 @@
+export const GET_NETFLIX_ORIGINAL = "GET_NETFLIX_ORIGINAL";
+export const GET_TOP_RATE = "GET_TOP_RATE";
+export const GET_POPULAR = "GET_POPULAR";
+export const SET_MOVIE_DETAIL = "SET_MOVIE_DETAIL";
+export const SEARCH = "SEARCH";
